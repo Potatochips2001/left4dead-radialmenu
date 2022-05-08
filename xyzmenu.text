@@ -1,0 +1,97 @@
+//--------------------------------------------------------------
+
+        "xyzmenu,Survivor,Alive"
+
+        {
+
+                "Center"
+
+                {
+
+                        "command"       "vocalize PlayerDeath"
+
+                        "text"          "Scream"
+
+                }
+
+                "North"
+
+                {
+
+                        "command"       "vocalize WitchGettingAngry"
+
+                        "text"          "Witch angry"
+
+                }
+
+                "NorthEast"
+
+                {
+
+                        "command"       "vocalize PlayerLedgeHangEnd"
+
+                        "text"          "Falling"
+
+                }
+
+                "East"
+
+                {
+
+                        "command"       "vocalize PlayerVomitInFace"
+
+                        "text"          "Vomited on"
+
+                }
+
+                "SouthEast"
+
+                {
+
+                        "command"       "vocalize CallForRescue"
+
+                        "text"          "Call for rescue"
+
+                }
+
+                "South"
+
+                {
+
+                        "command"       "vocalize Playergrabbedbytongue"
+
+                        "text"          "Smoker grabbed"
+
+                }
+
+                "SouthWest"
+
+                {
+
+                        "command"       "vocalize PlayerIncapacitated"
+
+                        "text"          "Incapacitated"
+
+                }
+
+                "West"
+
+                {
+
+                        "command"       "vocalize PlayerChoke"
+
+                        "text"          "Choking"
+
+                }
+
+                "NorthWest"
+
+                {
+
+                        "command"       "vocalize EatPills"
+
+                        "text"          "Eat pills"
+
+                }
+
+        }	
